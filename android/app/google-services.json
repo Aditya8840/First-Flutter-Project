@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401865089169",
+    "project_id": "todoflutter-6709c",
+    "storage_bucket": "todoflutter-6709c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401865089169:android:b31e576d7c28e07430df30",
+        "android_client_info": {
+          "package_name": "com.codiyapa.whatsapp.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401865089169-8l5qcgrj9gdg7cr5huso1mkkrsmv5rsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlmId7_TN9VAB5dVV_yknw9M_NDZ1oBLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401865089169-8l5qcgrj9gdg7cr5huso1mkkrsmv5rsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
